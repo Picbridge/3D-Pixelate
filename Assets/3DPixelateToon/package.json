@@ -1,0 +1,21 @@
+{
+  "name": "com.picbridge.unity3dpixelarttool",
+  "displayName": "3D Pixelart Tool",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "A package for 3D pixelate toon shading and related tools.",
+  "author": {
+    "name": "Jihoon Bae",
+    "email": "aky2000kr@gmail.com"
+  },
+  "keywords": [
+    "shaders",
+    "toon",
+    "pixelate",
+    "pixelart"
+  ],
+  "category": "Rendering",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.11"
+  }
+}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 915ec62060e5cd74da1b921ae612e4b0, type: 3}
+  m_Name: DefaultMaterialSettings
+  m_EditorClassIdentifier: 
+  defaultShader: {fileID: -6465566751694194690, guid: 7022db0325f49d14da3cf079f5b1d6c3, type: 3}
+  shades: 4.1
+  smoothness: 1
+  rimThreshold: 3.05
+  edgeDiffuse: 1.69
+  edgeSpecular: 0.008
+  edgeSpecularOffset: 0
+  edgeDistanceAttenuation: 0.074
+  edgeShadowAttenuation: 1.04
+  edgeRim: 0.021
+  edgeRimOffset: 0.02
