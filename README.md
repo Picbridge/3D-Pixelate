@@ -1,4 +1,4 @@
-# 3D-Pixelate# Unity 3D Pixelart Tool
+# Unity 3D Pixelart Tool
 ---
 
 ## Overview
