@@ -10,10 +10,13 @@ this toolset is meticulously crafted for developers who aspire to create stunnin
 
 ### Advanced Shaders
 - **Pixelize Shader**: Transform your 3D models into pixelated works of art, capturing the nostalgic essence of classic video games.
+  
   ![Pixelate](https://github.com/user-attachments/assets/d26e7057-805f-4d93-8bc3-2e45a1928fb2)
 - **CelShader**: Achieve a toon-shaded look with sharp edges and flat colors, perfect for stylized, cartoon-like aesthetics.
+  
   ![CelShader](https://github.com/user-attachments/assets/b3242a58-c5c1-4f36-a630-64f04703216c)
 - **Outlines**: Adds a clean and sharp outline to objects, enhancing the visual separation and readability of elements in your scene.
+  
   ![Outline](https://github.com/user-attachments/assets/8b4312dd-aa60-453a-b4db-2ee1896164f5)
 
 ### Customizable Material Settings
