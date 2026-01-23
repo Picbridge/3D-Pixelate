@@ -44,5 +44,4 @@ this toolset is meticulously crafted for developers who aspire to create stunnin
 
 ## Get Started
 
-Download our package from the Unity Asset Store, and transform your Unity projects with ease and style. 
-Visit our https://www.youtube.com/watch?v=SJil68tWeCo for more sample tests.
+Visit https://www.youtube.com/watch?v=SJil68tWeCo for more sample tests.
